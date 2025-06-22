@@ -158,6 +158,16 @@ These insights are generated using a wide range of **SQL skills**: joins, subque
 - **PowerPoint** for visual storytelling of business insights
 
 ---
+## 📊 ER Diagram
+The database structure is illustrated in the following diagram:
+
+![ER Diagram](grocery%20erdiagram.png)
+
+## 📂 Datasets
+Sample files used for importing data are located in the `/datasets` folder .
+
+
+
 
 ##  About Me
 
