@@ -8,7 +8,7 @@ Welcome to my SQL-based project for Grocery Store Management! This project simul
 
 - `grocery_schema.sql` – Contains the **SQL schema**, i.e., database creation and table definitions.
 - `grocery_queries.sql` – Contains all **SQL queries** to extract insights and answer business questions.
-- `grocery_datasets.zip`  – Sample data used to populate the database tables.
+- `Data sets.zip`  – Sample data used to populate the database tables.
 - `grocery erdiagram.png` – ER diagram representing the database structure.
 - `README.md` – You’re reading it now 😊
 
